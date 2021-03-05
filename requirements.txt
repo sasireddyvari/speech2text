@@ -1,0 +1,13 @@
+SpeechRecognition
+flask
+flask-cors
+gunicorn==20.0.4
+
+
+
+
+
+
+
+
+
